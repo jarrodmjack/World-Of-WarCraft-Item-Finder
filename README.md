@@ -1,3 +1,12 @@
+
+<hr>
+
+<p align="center" width="100%">
+    <img align='center' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ97k8l-R5ZwNf2YDcIvi1RtRMnrn6DlyqYdb3Wjd5H3oOVuGabvn8LZw4vhwEl6DkTUsA&usqp=CAU'></img>
+</p>
+
+<hr>
+
 World Of Warcraft Item Finder
 
 I created this application utilizing an API from Blizard Entertainment. The user will enter an item by name/keyword and the table will be populated with all relative items.
